@@ -26,6 +26,8 @@
 </head>
 
 <body>
+	<?php echo date("Y-m-d") ?>
+	
 	<table width="70%">
 		<tr>
 			<td>
