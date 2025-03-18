@@ -27,6 +27,12 @@
 
 <body>
 
+	<ul>
+		<li>關於我</li>
+		<li>電影配樂</li>
+		<li>推薦影片</li>
+	</ul>
+
 	<img src="cliff.jpg" width="110%" id="pic" onmouseover="change1()" onmouseout="change2()"></img>
 
 	<h3>陳琬昀(Wan-Yun Chen)</h3>
