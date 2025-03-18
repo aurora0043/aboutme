@@ -26,46 +26,26 @@
 </head>
 
 <body>
-	<table width="70%">
-		<tr>
-			<td>
-				<img src="cliff.jpg" width="110%" id="pic"
-				onmouseover="change1()" onmouseout="change2()"></img>
-			</td>
 
-			<td>
-				<h1>陳琬昀</h1>
-				<h2 id="h2text">Wan-Yun Chen</h2>
-			</td>
-		</tr>
-</table>
-	<table width="70%" border="1">
-	<tr>
-		<td>	
-			靜宜大學網頁：<a href="https://www.pu.edu.tw/"target="_blank">https://www.pu.edu.tw/</a><br>
-			Tel: <a href="tel:04-26328001#18110">04-26328001#18110</a><br>
-			E-Mail:<a href="mailto:s1120327@o365st.pu.edu.tw">s1120327@o365st.pu.edu.tw</a><br>
-		</td>
+	<img src="cliff.jpg" width="110%" id="pic" onmouseover="change1()" onmouseout="change2()"></img>
 
-		<td>	
-			大象席地而坐電影配樂<br>
-			<audio controls>
-				<source src="elephant.mp3"type="audio/mp3">
-			</audio><br>
-		</td>
+	<h3>陳琬昀(Wan-Yun Chen)</h3>
+	個人網頁：<a href="https://www1.pu.edu.tw/~tcyang">https://www1.pu.edu.tw/~tcyang</a><br>
+	FB：<a href="https://www.facebook.com/tcyang1971" target="_blank">https://www.facebook.com/tcyang1971</a><br>
+	Tel: <a href="tel:0426328001,18110">04-26328001#18110</a><br>
+	E-Mail: <a href="mailto:tcyang@pu.edu.tw">tcyang@pu.edu.tw</a><br>
 
-		<td>
-			不要去台灣<br>
-			<iframe src="https://www.youtube.com/embed/pW88QFpHXa8" allowfullscreen></iframe>
-		</td>
-	</tr>
+	<h3>電影配樂</h3>
+	大象席地而坐電影配樂<br>
+	<audio controls>
+		<source src="elephant.mp3" type="audio/mP3">
+	</audio><br>
 
-	<tr>
-		<td>
-		<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/a73c3823-3233-4efc-a1d9-6ac97980fdb9"></iframe>
-		</td>
-	</tr>
-	</table>	
+	<h3>推薦影片</h3>
+	不要去臺灣<br>
+	<iframe src="https://www.youtube.com/embed/pW88QFpHXa8" allowfullscreen></iframe>
+
 </body>
+
 
 </html>
